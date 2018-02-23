@@ -15,7 +15,14 @@ TIL은 짧은 Markdown 문서로 최근에 배운 개념, 명령의 일부, 명�
 * [thoughtbot/til][reference-thoughtbot]
 * [milooy/til][reference-milooy]
 
+## Other Developers TIL
+* [bear2u/til][link-sj-father]
+* [WnslgPsl/til][link-yun-father]
+
 [reference-jbranchaud]: https://github.com/jbranchaud/til
 [reference-thoughtbot]: https://github.com/thoughtbot/til
 [reference-milooy]: https://github.com/milooy/TIL
 [gfm-doc]: https://help.github.com/categories/writing-on-github/
+
+[link-sj-father]: https://github.com/bear2u/til
+[link-yun-father]: https://github.com/WnslgPsl/til
