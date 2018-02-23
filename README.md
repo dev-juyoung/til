@@ -1,7 +1,7 @@
 # Today I Learned
 
-우리는 끊임 없이 새로운 것을 배웁니다.
-이러한 학습을 공유하기 위한 레포입니다.
+우리는 끊임 없이 새로운 것을 배웁니다.  
+이러한 학습을 공유하기 위한 레포입니다.  
 TIL은 짧은 Markdown 문서로 최근에 배운 개념, 명령의 일부, 명령 및 팁을 설명합니다.
 > **[thoughtbot repo 발췌][reference-thoughtbot]**
 
