@@ -17,8 +17,8 @@ RxJava2의 Observable을 생성하는 함수 중, 가장 간단한 방법 중 �
 ``` java
 public static void main(String[] args) {
   Observable
-  .just("red circle")
-  .subscribe(System.out::println);
+    .just("red circle")
+    .subscribe(System.out::println);
 }
 ```
 

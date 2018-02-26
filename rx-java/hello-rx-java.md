@@ -11,7 +11,7 @@ RxJava 학습에 있어, `Lambda`, `Stream API` 등 Java8에서 지원하는 기
 ```java
 public static void main(String[] args) {
   Observable.just("Hello", "World!")
-  .subscribe(System.out::println);
+    .subscribe(System.out::println);
 }
 ```
 
