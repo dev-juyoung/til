@@ -37,4 +37,5 @@ $ nvm install --lts
 해당 문서는 `nvm`을 이용한 Node.js의 설치를 다루기 위한 문서이므로,  
 `nvm 명령어`에 대해서는 [공식 Github][nvm-github]를 확인하기 바란다.
 
+[prev-post]: https://github.com/dev-juyoung/til/blob/master/node-js/installation-node-from-official.md
 [nvm-github]: https://github.com/creationix/nvm
