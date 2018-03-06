@@ -21,8 +21,9 @@ $ sudo apt-key add {path}/nginx_signing.key
 ### \#. 패키지 인덱스정보 추가.
 
 ``` bash
-$ deb http://nginx.org/packages/ubuntu/ {codename} nginx
-$ deb-src http://nginx.org/packages/ubuntu/ {codename} nginx
+# vi를 이용하여 /etc/apt/sources.list에 추가.
+deb http://nginx.org/packages/ubuntu/ {codename} nginx
+deb-src http://nginx.org/packages/ubuntu/ {codename} nginx
 ```
 
 해당 커맨드 명령에서, `codename`에 해당하는 부분은 [참고사이트][docs-codename]를 확인하여 원하는 버전을 사용하면 된다.
