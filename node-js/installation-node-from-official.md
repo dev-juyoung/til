@@ -1,4 +1,4 @@
-# node.js 설치하기
+# node.js 설치하기 (공식문서를 이용한 방법)
 > 해당 문서는 Ubuntu 16.04 LTS 버전을 기반으로 작성했으며, [공식사이트][docs-installation]를 참고하여 작성하였다.
 
 `node.js`는 Chrome V8 JavaScript 엔진으로 빌드된 서버측 프레임워크이다.  
