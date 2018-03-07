@@ -17,8 +17,9 @@ TIL은 짧은 Markdown 문서로 최근에 배운 개념, 명령의 일부, 명�
 
 ## Other Developers TIL
 * [bear2u/til][link-sj-father] - 수지아부님
-* [WnslgPsl/til][link-yun-father] - 아윤빠
-* [ykyahwa/til][link-ykyahwa] - 요콩
+* [WnslgPsl/til][link-yun-father] - 아윤빠님
+* [ykyahwa/til][link-ykyahwa] - 요콩님
+* [Tikepjt/til][link-hyup] - 협님
 
 [reference-jbranchaud]: https://github.com/jbranchaud/til
 [reference-thoughtbot]: https://github.com/thoughtbot/til
@@ -28,3 +29,4 @@ TIL은 짧은 Markdown 문서로 최근에 배운 개념, 명령의 일부, 명�
 [link-sj-father]: https://github.com/bear2u/til
 [link-yun-father]: https://github.com/WnslgPsl/til
 [link-ykyahwa]: https://github.com/ykyahwa/TIL
+[link-hyup]: https://github.com/Tikepjt/TIL
