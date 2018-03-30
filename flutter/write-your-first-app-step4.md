@@ -63,7 +63,7 @@ class RandomWordsState extends State<RandomWords> {
 
 `_buildRow` 메서드의 경우 `WordPair`를 전달받아, `Text Widget`을 생성하고 해당 `WordPair`를 표출하는 역할을 한다.
 
-`_buildSuggestions` 메서드에서는 실질적인 특정 조건을 판단하여 `데이터(state)`의 갱신과 ListView Widget을 생성하여 반환하고 있다.
+`_buildSuggestions` 메서드에서는 특정 조건을 판단하여 `데이터(state)`의 갱신과 실질적인 ListView Widget을 생성하여 반환하고 있다.
 
 `Flutter`에서의 ListView는 `Builder Pattern`을 이용하여 객체를 생성하는 방법을 채택한 것으로 보이며, 이를 위해 `builder()` 메서드를 제공하고 있는것으로 확인된다. ~~Builder Pattern이 아닐수도...~~
 
