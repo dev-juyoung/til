@@ -106,7 +106,7 @@ class RandomWordsState extends State<RandomWords> {
 ### \#. 실행 결과
 > 좌측: Android Emulator / 우측: iOS Emulator
 
-![Hello World][result-image]
+![Result Images][result-image]
 
 
 [official-docs]: https://flutter.io/get-started/codelab/
