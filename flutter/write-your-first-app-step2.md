@@ -19,8 +19,6 @@ dependencies:
 
   cupertino_icons: ^0.1.0
   english_words: ^3.1.0
-  
-
 ```
 `pubspecs.yaml` 파일을 연 후, `dependencies` 블럭에 원하는 라이브러리를 `라이브러리명: 버저닝`을 명시해주면 된다.
 
@@ -35,6 +33,7 @@ dependencies:
 
 ``` dart
 import 'package:flutter/material.dart';
+// english_words 라이브러리를 사용하기 위해 명시.
 import 'package:english_words/english_words.dart';
 
 void main() => runApp(new MyApp());
@@ -42,6 +41,7 @@ void main() => runApp(new MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    // english_words의 WordPair 클래스를 이용하여 무작위 단어를 생성한다.
     final wordPair = new WordPair.random();
     return new MaterialApp(
       title: 'Welcome to Flutter',
@@ -50,6 +50,7 @@ class MyApp extends StatelessWidget {
           title: new Text('Welcome to Flutter'),
         ),
         body: new Center(
+          // 생성된 단어를 화면에 Text View로 표출한다.
           child: new Text(wordPair.asPascalCase),
         ),
       ),
@@ -57,6 +58,8 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+기존 코드를 계속 활용할 것이므로, 주석이 처리된 부분을 중점으로 확인하면 된다.
 
 ### \#. 실행 결과
 > 좌측: Android Emulator / 우측: iOS Emulator
