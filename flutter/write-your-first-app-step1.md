@@ -1,6 +1,8 @@
 # Flutter Write Your First App.
-## Step.1
 > 해당 문서는 [공식 사이트][official-docs]의 `Write Your First App` 파트를 진행하며 정리하는 문서이다.
+
+## Step.1
+* [참고 Repository][tutorial-repository]
 
 ### \#. 필수 준비물.
 * Flutter
@@ -61,5 +63,6 @@ class MyApp extends StatelessWidget {
 [official-docs]: https://flutter.io/get-started/codelab/
 [prev-post]: https://github.com/dev-juyoung/til/blob/master/flutter/installation-flutter.md
 [material-guide]: https://material.io/guidelines/
+[tutorial-repository]: https://github.com/dev-juyoung/flutter-tutorials/tree/step-1
 
 [result-image]: https://github.com/dev-juyoung/til-resources/blob/master/write-your-first-app/step-1-helloworld.png
