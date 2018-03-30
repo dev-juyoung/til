@@ -65,4 +65,4 @@ class MyApp extends StatelessWidget {
 [material-guide]: https://material.io/guidelines/
 [tutorial-repository]: https://github.com/dev-juyoung/flutter-tutorials/tree/step-1
 
-[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/write-your-first-app/step-1-helloworld.png
+[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/flutter/write-your-first-app/step-1-helloworld.png

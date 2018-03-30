@@ -113,4 +113,4 @@ class RandomWordsState extends State<RandomWords> {
 [prev-post]: https://github.com/dev-juyoung/til/blob/master/flutter/write-your-first-app-step3.md
 [tutorial-repository]: https://github.com/dev-juyoung/flutter-tutorials/tree/step-4
 
-[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/write-your-first-app/step-4-listview.png
+[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/flutter/write-your-first-app/step-4-listview.png

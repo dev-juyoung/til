@@ -72,4 +72,4 @@ class MyApp extends StatelessWidget {
 [prev-post]: https://github.com/dev-juyoung/til/blob/master/flutter/write-your-first-app-step1.md
 [tutorial-repository]: https://github.com/dev-juyoung/flutter-tutorials/tree/step-2
 
-[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/write-your-first-app/step-2-external-lib.png
+[result-image]: https://github.com/dev-juyoung/til-resources/blob/master/flutter/write-your-first-app/step-2-external-lib.png
