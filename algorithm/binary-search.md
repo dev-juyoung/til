@@ -65,5 +65,6 @@ fun main(args: Array<String>) {
 > 탐색결과: null
 ```
 
+> 스터디에 사용 된 전체 코드는 [algorithm repository][repository]에서 확인 가능.
 
-[exam-source]: https://github.com/dev-juyoung/algorithm-study/blob/master/src/BinarySearch.kt
+[repository]: https://github.com/dev-juyoung/algorithm-study
